@@ -189,8 +189,9 @@ body {
 }
 header.masthead {
     text-align: center;
-    color: white;
-    background-image: url("../img/header-bg.jpg");
+    color: rgb(253, 252, 249);
+    text-shadow: -2px -1px 2px black;;
+    background-image: url("../img/header.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;

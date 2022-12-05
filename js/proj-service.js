@@ -43,3 +43,9 @@ const gProjects = [
 function getProjects() {
     return gProjects
 }
+
+
+function getProjectById(id){
+    const project = gProjects.find(project => project.id === id)
+    return project
+}
