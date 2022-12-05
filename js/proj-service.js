@@ -25,7 +25,7 @@ const gProjects = [
      name: "Minesweeper",
      title: "Reveal the map without hitting the mines",
      desc: "lorem ipsum lorem ipsum lorem ipsum",
-     url: "projs/sokoban",
+     url: "https://noahmarkovich.github.io/Minesweeper-project/",
      publishedAt: 1671832800000,
      labels: ["Matrixes", "keyboard events"],
     },
@@ -34,7 +34,7 @@ const gProjects = [
      name: "In picture trivia game",
      title: "Name the celeb in the picture",
      desc: "lorem ipsum lorem ipsum lorem ipsum",
-     url: "projs/sokoban",
+     url: "https://noahmarkovich.github.io/In-Picture-Game/",
      publishedAt: 1671051100000,
      labels: ["Matrixes", "keyboard events"],
     }
