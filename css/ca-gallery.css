@@ -758,7 +758,12 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 /* reset bootstrap*/
-.row {
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.row-portfolio {
     margin-right: 0;
     margin-left: 0;
 }
